@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-git add up_to_date
-=======
-git add up_to_date.
->>>>>>> master
+echo "git pull" up_to_date
